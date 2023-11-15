@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\booking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\location-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\location-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\location-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\package-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\package-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\package-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Gulgaz\\Desktop\\Code Academy\\Front To Back\\FronttoBack_FirstProject\\TravelAgency_FronttoBack\\TravelAgency_FronttoBack\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TravelAgency_FronttoBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TravelAgency_FronttoBack.props",
+      "PackagePath": "build\\TravelAgency_FronttoBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelAgency_FronttoBack.props",
+      "PackagePath": "buildMultiTargeting\\TravelAgency_FronttoBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TravelAgency_FronttoBack.props",
+      "PackagePath": "buildTransitive\\TravelAgency_FronttoBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
